@@ -17,10 +17,10 @@ node.default['formatron_ntp_server']['configuration'] = {
     'ntp_server' => {
       'sub_domain' => 'ntp',
       'servers' => [
-        '0.nl.pool.ntp.org',
-        '1.nl.pool.ntp.org',
-        '2.nl.pool.ntp.org',
-        '3.nl.pool.ntp.org'
+        'servers 0.nl.pool.ntp.org',
+        'servers 1.nl.pool.ntp.org',
+        'servers 2.nl.pool.ntp.org',
+        'servers 3.nl.pool.ntp.org'
       ]
     },
     'sensu' => {

@@ -1,5 +1,5 @@
 name 'formatron_ntp_server'
-version '0.1.0'
+version '0.1.1'
 description 'Formatron NTP server cookbook'
 maintainer 'Peter Halliday'
 maintainer_email 'pghalliday@gmail.com'
